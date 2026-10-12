@@ -1,8 +1,8 @@
 <div align="center">
 
-# Merhaba, ben Zeynep Söyler 👋
+### Merhaba, ben Zeynep Söyler 👋
 
-### Software Developer · Web Development · AI & Data
+**Software Developer · Web Development · AI & Data**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -19,18 +19,16 @@
 
 ---
 
-## 👩‍💻 Hakkımda
-
 Python, JavaScript ve TypeScript ile projeler geliştiriyor; web uygulamaları, veri işleme ve yapay zekâ üzerine çalışıyorum. İş tarafında Oracle EBS, Oracle APEX ve SQL ile uygulama geliştirme, raporlama ve süreç otomasyonları üzerinde deneyim kazanıyorum.
 
-## ⚡ Neler üzerinde çalışıyorum?
+**⚡ Neler üzerinde çalışıyorum?**
 
 - **Yapay zekâ:** LLM ve RAG tabanlı uygulamalar, makine öğrenmesi ve derin öğrenme projeleri.
 - **Web geliştirme:** React ve Next.js ile arayüzler; JavaScript ve TypeScript ile uygulama geliştirme.
 - **Python ve veri:** Veri toplama, web scraping ve verilerin işlenmesine yönelik çalışmalar.
 - **Veritabanı ve kurumsal uygulamalar:** SQL, PL/SQL ve Oracle APEX ile raporlar, dashboard'lar ve iş süreci otomasyonları.
 
-## 🛠️ Teknolojiler
+**🛠️ Teknolojiler**
 
 | Alan | Kullandığım teknolojiler |
 | :--- | :--- |
